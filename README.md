@@ -53,7 +53,7 @@ A comprehensive tool for scraping, analyzing, and visualizing e-commerce data fr
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/moatasem-aboubakr/DataWizardsTool.git
-cd ecommerce-data-analysis
+cd DataWizardsTool
 ```
 
 ### 2. Configure eBay API
